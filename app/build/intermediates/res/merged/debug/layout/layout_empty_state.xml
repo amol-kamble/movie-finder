@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:gravity="center">
+
+    <ImageView
+        android:id="@+id/img_empty_icon"
+        android:layout_width="140dp"
+        android:layout_height="140dp"
+        android:layout_marginBottom="20dp"
+        android:src="@drawable/ic_movie_icon"/>
+    <TextView
+        android:id="@+id/txt_empty_text"
+        style="@style/EmptyStateText"
+        android:text="Nothing to show !"/>
+</LinearLayout>

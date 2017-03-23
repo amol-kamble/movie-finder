@@ -1,0 +1,4 @@
+#Thu Mar 23 12:08:11 IST 2017
+base.0=/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/transforms/dex/release/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex

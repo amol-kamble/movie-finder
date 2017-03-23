@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-24.2.1_e47226c01c8d18530f6c50703320f2ae8167c21c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_e47226c01c8d18530f6c50703320f2ae8167c21c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/pre-dexed/release/internal_impl-24.2.1_f452410e3f24260942b3b80e73ddd7774449f2b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/pre-dexed/release/com.android.support-support-compat-24.2.1_da3c0e045a65f4a150d15253c61ec2173f5626fb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_da3c0e045a65f4a150d15253c61ec2173f5626fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_ed6c64c241a28fd6f6f1629a1d25b9e5b0452f43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amolkamble/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.0_60d25e6e8a554cad595725bcd4e30f1874efa06f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/pre-dexed/release/com.android.support-support-fragment-24.2.1_ed6c64c241a28fd6f6f1629a1d25b9e5b0452f43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amolkamble/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/pre-dexed/release/gson-2.8.0_60d25e6e8a554cad595725bcd4e30f1874efa06f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-24.2.1_3afa99372e30b74bac33cfe42a3b3737cfc6e461.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_3afa99372e30b74bac33cfe42a3b3737cfc6e461/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amolkamble/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.1_c63b93e2965d8f5f0621e09099330cf5ac61fb12/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amolkamble/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/pre-dexed/release/okio-1.9.0_56c5bf88e5eca4a4fdc2c9024daa30c2b55c37c7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amolkamble/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_e8e80eced9023420c858d8453760a022a727b7cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amolkamble/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/pre-dexed/release/okhttp-3.4.1_c63b93e2965d8f5f0621e09099330cf5ac61fb12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amolkamble/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/pre-dexed/release/converter-gson-2.1.0_e8e80eced9023420c858d8453760a022a727b7cb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amolkamble/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_56c5bf88e5eca4a4fdc2c9024daa30c2b55c37c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_3e09078c8c70d3aa66a5d66aa18ae6c83cbf2881/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amolkamble/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_5b15ab11de71b098515d47a56d654d5f651a1b63/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/pre-dexed/release/com.android.support-support-media-compat-24.2.1_3e09078c8c70d3aa66a5d66aa18ae6c83cbf2881.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amolkamble/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/pre-dexed/release/picasso-2.5.2_5b15ab11de71b098515d47a56d654d5f651a1b63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/pre-dexed/release/com.android.support-cardview-v7-23.4.0_2d2769079e9ce072996bc18b6fcfa517b3a091ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-24.2.1_2b382736f430795068586de3567bfa59fcfaca04.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3eac4edf120b5c5bea356782563aefb1cb9121a6">
+        <dex dex="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7ff6a928ca558bd32e9af8b517c006c1c2866bdf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_2b382736f430795068586de3567bfa59fcfaca04/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_e66d2d5f151281bbe1069e261485fe4f912facc9/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amolkamble/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/pre-dexed/release/retrofit-2.1.0_67719a3146741d59f68eaa957135cf15f4e48297.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.4.0_2d2769079e9ce072996bc18b6fcfa517b3a091ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-23.4.0_e66d2d5f151281bbe1069e261485fe4f912facc9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amolkamble/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_67719a3146741d59f68eaa957135cf15f4e48297/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/pre-dexed/release/internal_impl-24.2.1_ee47c6e922356d52dcc52e84faa8a0286f8184de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/pre-dexed/release/internal_impl-24.2.1_8b80c57c077c99f2071e219bfb652aac62e844b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/pre-dexed/release/com.android.support-support-core-ui-24.2.1_2ae8934a9afc242475e811edbf1a40cf214beabb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_2ae8934a9afc242475e811edbf1a40cf214beabb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ee47c6e922356d52dcc52e84faa8a0286f8184de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="46ddf9b838c62d68586d99f2486fa26af6f18ec1">
+        <dex dex="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4a1f3b9811feac84e67085848a306ca0ffe05541/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-24.2.1_77b3ab36cea5eec5f547b75684924afe5bfa7c6e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_1f57315e5bb27ef5359f3a1ff0845293f9c8d29e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amolkamble/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_403b69ef26cd8e66e889ec599846971c86790818/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_4a69923d3b74982e4ba88b237cc66c2e3341c30a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/pre-dexed/release/internal_impl-24.2.1_1f57315e5bb27ef5359f3a1ff0845293f9c8d29e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amolkamble/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/pre-dexed/release/support-annotations-24.2.1_403b69ef26cd8e66e889ec599846971c86790818.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/pre-dexed/release/com.android.support-support-core-utils-24.2.1_4a69923d3b74982e4ba88b237cc66c2e3341c30a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_8b80c57c077c99f2071e219bfb652aac62e844b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_77b3ab36cea5eec5f547b75684924afe5bfa7c6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_059550bb03aab57c821afb05ea4441128ee48ba3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f452410e3f24260942b3b80e73ddd7774449f2b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/pre-dexed/release/internal_impl-24.2.1_059550bb03aab57c821afb05ea4441128ee48ba3.jar" />
+    </item>
+
+</items>

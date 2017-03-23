@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Movie Finder</string>
+    <string name="no_movie_to_show">No Result Found</string>
+</resources>

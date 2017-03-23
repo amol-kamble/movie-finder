@@ -1,0 +1,7 @@
+#Thu Mar 23 11:59:51 IST 2017
+base.0=/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7ff6a928ca558bd32e9af8b517c006c1c2866bdf
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4a1f3b9811feac84e67085848a306ca0ffe05541/classes.dex
+base.1=/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4a1f3b9811feac84e67085848a306ca0ffe05541
+file.0=/Users/amolkamble/Documents/AmL/Open Source Projects/Android/Session Manager/MovieFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7ff6a928ca558bd32e9af8b517c006c1c2866bdf/classes.dex
